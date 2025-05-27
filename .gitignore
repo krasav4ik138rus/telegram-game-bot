@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+# If using Django
+# .env
+
+# Specific to this project
+.env             # Your environment variables (TELEGRAM_TOKEN, MONGO_URI)
